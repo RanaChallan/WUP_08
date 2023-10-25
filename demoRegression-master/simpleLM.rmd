@@ -80,6 +80,8 @@ summary.lm(age)
 ```
 
 
+Residual standard error: 7.5 on 52 degrees of freedom, Adjusted R-Squared: 0.50.
+
 
 
 
